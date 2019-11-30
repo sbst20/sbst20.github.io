@@ -16,7 +16,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/keynotes/</guid>
-      <description> Keynote Speakers To be announced.   Tutorial Speaker To be announced.     </description>
+      <description>Keynote Speakers To be announced.   Tutorial Speaker Matias Martinez Université Polytechnique Hauts-de-France
+Astor: A framework for building automated software repair approaches.
+Abstract: Astor is a framework for building approaches that repair buggy Java programs. Those repair approaches take as input a buggy Java program (having at least one failing test case that exposes the bug) and search for a patch that produces all test cases to pass. Astor provides twelve extension points that form the design space of program repair.</description>
     </item>
     
     <item>
