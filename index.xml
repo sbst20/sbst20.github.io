@@ -47,7 +47,7 @@ Abstract: Astor is a framework for building approaches that repair buggy Java pr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tools/</guid>
-      <description>Tool Competition This year as well we are pleased to announce the seventh edition of the unit testing tool competition. We invite researchers to participate in the competition with their unit test generation tool for Java. Tools will be evaluated against a benchmark with respect to code coverage and mutation score. To participate:  notify the organizers by sending an email to Xavier Devroey (x.d.m.devroey@tudelft.nl). check out the contest infrastructure and make sure your tool works well within the infrastructure.</description>
+      <description>Tool Competition This year as well we are pleased to announce the eighth edition of the unit testing tool competition. We invite researchers to participate in the competition with their unit test generation tool for Java. Tools will be evaluated against a benchmark with respect to code coverage and mutation score. To participate:  notify the organizers by sending an email to Xavier Devroey, Sebastiano Panichela, and Alessio Gambi (x.</description>
     </item>
     
     <item>
