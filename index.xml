@@ -16,9 +16,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/keynotes/</guid>
-      <description>Keynote Speakers To be announced.   Tutorial Speaker Matias Martinez Université Polytechnique Hauts-de-France
-Astor: A framework for building automated software repair approaches.
-Abstract: Astor is a framework for building approaches that repair buggy Java programs. Those repair approaches take as input a buggy Java program (having at least one failing test case that exposes the bug) and search for a patch that produces all test cases to pass. Astor provides twelve extension points that form the design space of program repair.</description>
+      <description>Keynote Talk Robert Feldt Chalmers University of Technology and Blekinge Institute of Technology
+SBST for AI and beyond - from single inputs to generative models
+Abstract: Search-based software testing has made progress in the last 20 years and is now more routinely used to find desirable test inputs. However, we argue that for future progress the community need to get out from the hegemony of evolutionary search and also focus on finding models that generate data rather than on finding specific inputs.</description>
     </item>
     
     <item>
@@ -29,7 +29,7 @@ Abstract: Astor is a framework for building approaches that repair buggy Java pr
       <guid>/organisation/</guid>
       <description> Co-Chairs Erik Fredericks Oakland University, USA
     Jos&amp;eacute; Miguel Rojas University of Leicester, UK
-       Program Committee  Nazareno Aguirre, Universidad Nacional de Río Cuarto - CONICET, Argentina Giuliano Antoniol, Ecole Polytechnique de Montréal, Canada Jose Campos, University of Washington, USA John Clark, The University of Sheffield, UK Myra Cohen, Iowa State University, USA Byron DeVries, Grand Valley State University, USA Gordon Fraser, University of Passau, Germany Gregory Gay, Chalmers and the University of Gothenburg, Sweden Giovani Guizzo, University College London, UK Phil McMinn, The University of Sheffield, UK Sebastiano Panichella, University of Zurich, Switzerland Annibale Panichella, Delft University of Technology, Netherlands Justyna Petke, University College London, UK Paolo Tonella, Università della Svizzera Italiana, Switzerland Thomas Vogel, Humboldt-Universität zu Berlin, Germany Shin Yoo, Korea Advanced Institute of Science and Technology, Republic of Korea Jie Zhang, University College London, UK     </description>
+       Program Committee  Nazareno Aguirre, Universidad Nacional de Río Cuarto - CONICET, Argentina Giuliano Antoniol, Ecole Polytechnique de Montréal, Canada Kate Bowers, Oakland University, USA Jose Campos, University of Washington, USA Thelma E. Colanzi, State University of Maringá, Brazil	Byron DeVries, Grand Valley State University, USA Gordon Fraser, University of Passau, Germany Gregory Gay, Chalmers and the University of Gothenburg, Sweden Giovani Guizzo, University College London, UK Gregory Kapfhammer, Allegheny College, USA Phil McMinn, The University of Sheffield, UK Sebastiano Panichella, University of Zurich, Switzerland Annibale Panichella, Delft University of Technology, Netherlands Justyna Petke, University College London, UK Paolo Tonella, Università della Svizzera Italiana, Switzerland Thomas Vogel, Humboldt-Universität zu Berlin, Germany Shin Yoo, Korea Advanced Institute of Science and Technology, Republic of Korea Jie Zhang, University College London, UK     </description>
     </item>
     
     <item>
